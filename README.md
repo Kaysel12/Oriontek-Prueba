@@ -1,7 +1,8 @@
 # Bienvenido al Proyecto Oriontek Test
 
-![Spring Boot](https://spring.io/img/homepage/brand-spring-boot.svg)
-
+<p align="center">
+    <img alt="Spring Doc Resources" title="Spring Doc Resources" src="https://i.imgur.com/fGi6EaT.png" width="450">
+</p>
 ## Leer Primero
 
 Lo siguiente se descubrió al construir este proyecto:
