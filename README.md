@@ -3,13 +3,8 @@
 <p align="center">
     <img alt="Spring Doc Resources" title="Spring Doc Resources" src="https://i.imgur.com/fGi6EaT.png" width="450">
 </p>
-## Leer Primero
 
-Lo siguiente se descubrió al construir este proyecto:
-
-- El nombre del paquete original `com.oriontek-test.oriontek-test` es inválido. Este proyecto utiliza `com.oriontek_test.oriontek_test` en su lugar.
-
-## Comenzando
+## Inicio
 
 ¡Bienvenido al Proyecto Oriontek Test! Este proyecto está construido con Spring Boot y Maven. A continuación, se presentan algunos recursos para ayudarte a comenzar:
 
